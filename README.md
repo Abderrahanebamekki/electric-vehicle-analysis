@@ -16,9 +16,7 @@ Python (pandas), Power BI, CSV
 | File | Description |
 |------|-------------|
 | `clean_data.py` | Python cleaning script |
-| `data/` | Clean CSV files |
-| `dashboard.pbix` | Power BI dashboard |
-| `images/` | Dashboard screenshots |
+| `images/` | Dashboard screenshots and schema diagrams |
 | `BIA.pdf` | Full project report |
 
 ## Results
@@ -26,7 +24,10 @@ Python (pandas), Power BI, CSV
 - King County has the most vehicles
 - Average electric range is higher in hot regions than cold regions
 
-![Dashboard](images/dashboard.png)
+![Range by weather](images/range_by_weather.png)
+![EV vs Hybrid](images/ev_vs_hybrid.png)
+![Top counties](images/top_counties.png)
+![Top models](images/top_models.png)
 
 ## Author
 Bamekki Abderrahmane
